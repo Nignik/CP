@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Stick_lengths/cmake-build-debug/CMakeFiles/Stick_lengths.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Stick_lengths/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Stick_lengths/cmake-build-debug/CMakeFiles/rebuild_cache.dir

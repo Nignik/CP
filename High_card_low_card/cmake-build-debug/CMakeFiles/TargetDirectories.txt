@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/High_card_low_card/cmake-build-debug/CMakeFiles/High_card_low_card.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/High_card_low_card/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/High_card_low_card/cmake-build-debug/CMakeFiles/rebuild_cache.dir

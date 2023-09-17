@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Nezzar_and_symetric_array/cmake-build-debug/CMakeFiles/Nezzar_and_symetric_array.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Nezzar_and_symetric_array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Nezzar_and_symetric_array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

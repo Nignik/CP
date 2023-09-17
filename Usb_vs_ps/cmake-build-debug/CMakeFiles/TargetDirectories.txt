@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Usb_vs_ps/cmake-build-debug/CMakeFiles/Usb_vs_ps.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Usb_vs_ps/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Usb_vs_ps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

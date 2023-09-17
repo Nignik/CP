@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Stuck_in_a_root/cmake-build-debug/CMakeFiles/Stuck_in_a_root.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Stuck_in_a_root/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Stuck_in_a_root/cmake-build-debug/CMakeFiles/rebuild_cache.dir

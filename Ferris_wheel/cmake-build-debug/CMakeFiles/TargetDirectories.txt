@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Ferris_wheel/cmake-build-debug/CMakeFiles/Ferris_wheel.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Ferris_wheel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Ferris_wheel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

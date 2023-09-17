@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Movie_festival/cmake-build-debug/CMakeFiles/Movie_festival.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Movie_festival/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Movie_festival/cmake-build-debug/CMakeFiles/rebuild_cache.dir

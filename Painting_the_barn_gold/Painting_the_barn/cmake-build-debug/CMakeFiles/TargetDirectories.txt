@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Painting_the_barn_gold/Painting_the_barn/cmake-build-debug/CMakeFiles/Painting_the_barn.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Painting_the_barn_gold/Painting_the_barn/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Painting_the_barn_gold/Painting_the_barn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

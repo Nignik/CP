@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Correct_placement/cmake-build-debug/CMakeFiles/Correct_placement.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Correct_placement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Correct_placement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

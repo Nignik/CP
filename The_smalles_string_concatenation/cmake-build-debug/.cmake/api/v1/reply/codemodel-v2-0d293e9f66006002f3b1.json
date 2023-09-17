@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "The_smalles_string_concatenation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "The_smalles_string_concatenation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-The_smalles_string_concatenation-Debug-0765f6ff8f3e8eb0b83a.json",
+					"name" : "The_smalles_string_concatenation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/maksy/OneDrive/Pulpit/CP/The_smalles_string_concatenation/cmake-build-debug",
+		"source" : "C:/Users/maksy/OneDrive/Pulpit/CP/The_smalles_string_concatenation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

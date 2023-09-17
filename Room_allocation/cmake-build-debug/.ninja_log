@@ -1,0 +1,23 @@
+# ninja log v5
+0	1137	7150281017849143	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1140	1312	7150281019576078	Room_allocation.exe	9cb011c8ff2f631c
+2	1112	7150281247715476	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1112	1263	7150281249115927	Room_allocation.exe	9cb011c8ff2f631c
+2	1126	7150281492093509	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1126	1269	7150281493494916	Room_allocation.exe	9cb011c8ff2f631c
+2	1130	7150283766300998	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1131	1276	7150283767700119	Room_allocation.exe	9cb011c8ff2f631c
+1	1106	7150284905312166	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1106	1243	7150284906647677	Room_allocation.exe	9cb011c8ff2f631c
+1	1104	7150285333794253	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1104	1246	7150285335170007	Room_allocation.exe	9cb011c8ff2f631c
+1	1117	7150291940327284	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1118	1262	7150291941725278	Room_allocation.exe	9cb011c8ff2f631c
+1	1179	7150294442106572	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1179	1323	7150294443511654	Room_allocation.exe	9cb011c8ff2f631c
+1	1205	7150302668000018	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1206	1363	7150302669526751	Room_allocation.exe	9cb011c8ff2f631c
+1	1254	7150305074622701	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1255	1399	7150305076045334	Room_allocation.exe	9cb011c8ff2f631c
+2	1297	7150307911122575	CMakeFiles/Room_allocation.dir/main.cpp.obj	5cc499bad87cd6d4
+1297	1452	7150307912635564	Room_allocation.exe	9cb011c8ff2f631c

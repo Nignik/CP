@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/They_are_everywhere/cmake-build-debug/CMakeFiles/They_are_everywhere.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/They_are_everywhere/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/They_are_everywhere/cmake-build-debug/CMakeFiles/rebuild_cache.dir

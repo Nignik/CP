@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Concert_tickets/cmake-build-debug/CMakeFiles/Concert_tickets.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Concert_tickets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Concert_tickets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

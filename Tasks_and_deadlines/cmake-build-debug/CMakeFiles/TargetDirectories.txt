@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Tasks_and_deadlines/cmake-build-debug/CMakeFiles/Tasks_and_deadlines.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Tasks_and_deadlines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Tasks_and_deadlines/cmake-build-debug/CMakeFiles/rebuild_cache.dir

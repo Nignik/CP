@@ -1,0 +1,19 @@
+# ninja log v5
+0	1021	7165925931970264	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+1023	1201	7165925933738575	Rest_stops.exe	9c39213f6fab93a5
+2	961	7165928419720763	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+962	1099	7165928421066641	Rest_stops.exe	9c39213f6fab93a5
+2	969	7165928838212874	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+969	1094	7165928839420583	Rest_stops.exe	9c39213f6fab93a5
+2	982	7165929308718265	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+983	1122	7165929310090277	Rest_stops.exe	9c39213f6fab93a5
+2	969	7165930500167365	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+970	1108	7165930501523544	Rest_stops.exe	9c39213f6fab93a5
+2	956	7165931469747430	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+957	1089	7165931471031020	Rest_stops.exe	9c39213f6fab93a5
+1	953	7165932277946617	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+953	1096	7165932279333510	Rest_stops.exe	9c39213f6fab93a5
+2	948	7165932534167774	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+949	1077	7165932535438567	Rest_stops.exe	9c39213f6fab93a5
+1	954	7165933290841610	CMakeFiles/Rest_stops.dir/main.cpp.obj	7556e985db2fecae
+955	1090	7165933292170190	Rest_stops.exe	9c39213f6fab93a5

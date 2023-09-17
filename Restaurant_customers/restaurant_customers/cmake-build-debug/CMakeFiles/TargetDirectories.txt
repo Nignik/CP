@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Restaurant_customers/restaurant_customers/cmake-build-debug/CMakeFiles/restaurant_customers.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Restaurant_customers/restaurant_customers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Restaurant_customers/restaurant_customers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

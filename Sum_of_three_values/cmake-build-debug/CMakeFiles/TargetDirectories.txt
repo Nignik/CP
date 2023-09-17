@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Sum_of_three_values/cmake-build-debug/CMakeFiles/Sum_of_three_values.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Sum_of_three_values/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Sum_of_three_values/cmake-build-debug/CMakeFiles/rebuild_cache.dir

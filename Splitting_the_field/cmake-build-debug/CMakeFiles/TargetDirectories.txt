@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/Splitting_the_field/cmake-build-debug/CMakeFiles/Splitting_the_field.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Splitting_the_field/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/Splitting_the_field/cmake-build-debug/CMakeFiles/rebuild_cache.dir

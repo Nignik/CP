@@ -1,0 +1,3 @@
+C:/Users/maksy/OneDrive/Pulpit/CP/An_impassioned_circulation_of_affection/cmake-build-debug/CMakeFiles/An_impassioned_circulation_of_affection.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/An_impassioned_circulation_of_affection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksy/OneDrive/Pulpit/CP/An_impassioned_circulation_of_affection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+0	1044	7144360281018669	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1047	1191	7144360282451522	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+1	1028	7144366015792948	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1029	1167	7144366017147353	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1042	7144367150305533	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1042	1175	7144367151601438	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1028	7144367810908850	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1032	1168	7144367812261619	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+1	1022	7144369102266624	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1022	1158	7144369103593939	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1008	7144369321972433	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1008	1137	7144369323240519	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1114	7144372785514097	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1114	1257	7144372786885459	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+1	1051	7144373807065116	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1051	1188	7144373808401799	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1054	7144379615171461	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1055	1197	7144379616562945	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1157	7144380193728409	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1158	1306	7144380195169343	The_smalles_string_concatenation.exe	497d6e36f4904e2e
+2	1054	7144381265191473	CMakeFiles/The_smalles_string_concatenation.dir/main.cpp.obj	d51b17d03c46f234
+1055	1192	7144381266547223	The_smalles_string_concatenation.exe	497d6e36f4904e2e
